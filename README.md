@@ -51,7 +51,7 @@ The system follows an end-to-end pipeline: **Raw STL Input → Voxelization → 
 ### Voxelization Engine
 To enable 3D CNN processing, the system discretizes mesh surfaces into a volumetric occupancy grid.
 
-![Voxel Visualization](images/voxel_vis.png)
+![Voxel Visualization](images/voxels_vis.png)
 *Figure 2: Visualization of a "Round" feature converted into a 128x128x128 voxel grid.*
 
 ---
@@ -69,7 +69,7 @@ We evaluated three architectures on **Accuracy**, **Robustness** (noise toleranc
 ### 2. Classification Accuracy
 The final fine-tuned model achieved **99.28% accuracy**, effectively distinguishing between 24 distinct machining features.
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/Confusion_matrix.jpg)
 *Figure 4: Confusion matrix showing high precision across all feature classes.*
 
 ---
