@@ -17,7 +17,7 @@ Developed as part of the **Erasmus Mundus Joint Master in Manufacturing 4.0**.
 
 The interactive dashboard allows users to upload raw STL files, visualize the voxelization process in real-time, and receive instant feature classification.
 
-![Dashboard Demo](images/demo.gif)
+![Dashboard Demo](https://drive.google.com/file/d/1e5TQ5RikQ3PNnITK81PVMECmLsbGwsx_/view?usp=sharing)
 *(The interface allows for drag-and-drop STL upload and instant prediction)*
 
 ---
