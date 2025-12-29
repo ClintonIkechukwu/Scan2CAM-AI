@@ -20,9 +20,15 @@ The interactive dashboard allows users to upload raw STL files, visualize the vo
 <br>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=w-CZeLHiaiA">
-    <img src="https://img.youtube.com/vi/w-CZeLHiaiA/hqdefault.jpg" alt="Watch the Demo Video" width="600"/>
-  </a>
+  <iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/YOUR_VIDEO_ID?autoplay=1&mute=1" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="autoplay; encrypted-media" 
+    allowfullscreen>
+</iframe>
   <br>
   <em>(Click the image above to watch the full demo on YouTube)</em>
 </div>
