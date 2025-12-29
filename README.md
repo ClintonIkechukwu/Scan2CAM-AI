@@ -56,9 +56,9 @@ To enable 3D CNN processing, the system discretizes mesh surfaces into a volumet
 <div align="center">
   <h3>Network Architecture Overview</h3>
   <p float="left">
-    <img src="./Feature%20net%20architecture.png" width="32%" alt="Feature Net" />
-    <img src="./Resnet3D%20architecture.png" width="32%" alt="ResNet3D" />
-    <img src="./inceptionlite.png" width="32%" alt="InceptionLite" />
+    <img src="images/Feature net architecture.png" width="32%" alt="Feature Net" />
+    <img src="images/Resnet3D architecture.png" width="32%" alt="ResNet3D" />
+    <img src="images/inceptionlite.png" width="32%" alt="InceptionLite" />
   </p>
   <p><em>From left to right: Feature Net, ResNet3D, and InceptionLite architectures.</em></p>
 </div>
