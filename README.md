@@ -53,7 +53,7 @@ We evaluated three architectures on **Accuracy**, **Robustness** (noise toleranc
 ### 1. Comparative Analysis
 **InceptionLite** (our proposed model) demonstrated superior robustness compared to standard FeatureNet and ResNet architectures.
 
-![Radar Chart](images/radar_chart.png)
+![Radar Chart](images/Radar_chart.png)
 *Figure 3: Radar chart comparing model performance metrics.*
 
 ### 2. Classification Accuracy
