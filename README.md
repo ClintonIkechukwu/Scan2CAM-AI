@@ -52,6 +52,19 @@ To enable 3D CNN processing, the system discretizes mesh surfaces into a volumet
 ![Voxel Visualization](images/voxels_vis.png)
 *Figure 2: Visualization of a "Round" feature converted into a 128x128x128 voxel grid.*
 
+
+<div align="center">
+  <h3>Network Architecture Overview</h3>
+  <p float="left">
+    <img src="./Feature%20net%20architecture.png" width="32%" alt="Feature Net" />
+    <img src="./Resnet3D%20architecture.png" width="32%" alt="ResNet3D" />
+    <img src="./inceptionlite.png" width="32%" alt="InceptionLite" />
+  </p>
+  <p><em>From left to right: Feature Net, ResNet3D, and InceptionLite architectures.</em></p>
+</div>
+
+*Figure 3: Architectures*
+
 ---
 
 ## 📈 Model Performance
@@ -63,13 +76,13 @@ We evaluated three architectures on **Accuracy**, **Robustness** (noise toleranc
 <br>
 ![Radar Chart](images/Radar_chart.png)
 </br>
-*Figure 3: Radar chart comparing model performance metrics.*
+*Figure 4: Radar chart comparing model performance metrics.*
 
 ### 2. Classification Accuracy
 The final fine-tuned model achieved **99.28% accuracy**, effectively distinguishing between 24 distinct machining features.
 
 ![Confusion Matrix](images/Confusion_matrix.jpg)
-*Figure 4: Confusion matrix showing high precision across all feature classes.*
+*Figure 5: Confusion matrix showing high precision across all feature classes.*
 
 ---
 
