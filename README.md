@@ -28,8 +28,6 @@ The interactive dashboard allows users to upload raw STL files, visualize the vo
 > [!TIP]
 > **Interface Feature:** Supports drag-and-drop STL upload and instant prediction.
 
-> [!IMPORTANT]
-> The interface allows for drag-and-drop STL upload and instant prediction.
 ---
 
 ## 🚀 Key Features
