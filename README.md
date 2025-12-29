@@ -16,9 +16,18 @@ Developed as part of the **Erasmus Mundus Joint Master in Manufacturing 4.0**.
 ## 🎥 Demo: Intelligent Recognition Dashboard
 
 The interactive dashboard allows users to upload raw STL files, visualize the voxelization process in real-time, and receive instant feature classification.
-[![Watch the Demo Video](https://img.youtube.com/vi/w-CZeLHiaiA/hqdefault.jpg)](https://www.youtube.com/watch?v=w-CZeLHiaiA)
 
+<br>
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=w-CZeLHiaiA">
+    <img src="https://img.youtube.com/vi/w-CZeLHiaiA/hqdefault.jpg" alt="Watch the Demo Video" width="600"/>
+  </a>
+  <br>
+  <em>(Click the image above to watch the full demo on YouTube)</em>
+</div>
+
+<br>
 *(The interface allows for drag-and-drop STL upload and instant prediction)*
 
 ---
